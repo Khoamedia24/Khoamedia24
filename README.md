@@ -77,9 +77,9 @@ Full-stack online store with product management and order system.
 
 ## 📫 Connect with Me
 
-* Email: [your_email@gmail.com](mailto:your_email@gmail.com)
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* Email: [sgtkwa@gmail.com](mailto:sgtkwa@gmail.com)
+* GitHub: https://github.com/Khoamedia24
+* LinkedIn: https://linkedin.com/in/khoa66
 
 ---
 
