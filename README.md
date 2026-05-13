@@ -67,13 +67,6 @@ Full-stack online store with product management and order system.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khoamedia24\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khoamedia24\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
