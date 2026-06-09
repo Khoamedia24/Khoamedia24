@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Huỳnh Đăng Khoa
 
-💻 **Backend Developer (Learning & Building Real Systems)**
-🚀 Passionate about building scalable backend systems, APIs, and digital platforms.
-🎓 3rd-year Software Engineering student.
+ **Backend Developer (Learning & Building Real Systems)**
+ Passionate about building scalable backend systems, APIs, and digital platforms.
+ 3rd-year Software Engineering student.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🔭 I’m currently building **real-world backend systems**
 * 🌐 Developed a **digital payment platform with real users and transactions**
